@@ -1,1 +1,3 @@
 # youtube-channel-analysis
+
+I’m currently working as a consultant with a full-time YouTube content creator to analyze his channel’s performance using data-driven methods. My role involves conducting business analytics in R to generate actionable insights aimed at increasing revenue, subscriber growth, click-through rate (CTR), and watch time. Based on these insights, I provide strategic recommendations for content optimization and audience engagement. This repository will soon be updated with visualizations, reports, and scripts from the project, which is still in progress.
